@@ -4,3 +4,6 @@
   prompt = false
 [alias]
   wdiff = diff --word-diff=color --unified=1
+
+[diff "word"]
+	command = D:/!!DOCUMENTS2015/!!AKREDITASI/ExtDiff-master/diff-word-wrapper.cmd
