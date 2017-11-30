@@ -19,3 +19,4 @@
 *.doc diff=pandoc
 *.DOCX diff=pandoc
 *.DOC diff=pandoc
+*.docx diff=word
